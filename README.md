@@ -1,4 +1,4 @@
-# Application de Gestion de Projets - Exercice 2
+# Application de Gestion de Projets 
 
 ## Description
 Cette application permet de gérer des projets, des employés, des tâches et leurs associations selon le diagramme UML fourni.
